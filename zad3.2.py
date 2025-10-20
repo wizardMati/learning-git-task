@@ -8,6 +8,6 @@ for shop, products in shopping.items():
     print(f"Idę do {shop.capitalize()}, kupuję tu następujące rzeczy: {capitalized_products}.")
 
 total_items = sum(len(products) for products in shopping.values())
-print(f"W sumie kupuję {total_items} produktówe.")
+print(f"W sumie kupuję {total_items} produktówe2.")
 
 
