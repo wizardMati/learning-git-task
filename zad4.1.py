@@ -6,6 +6,9 @@ def polindrom(slowo):
 
 
 
+woda = polindrom("woda")
+print(woda)
+
 kajak = polindrom("kajak")
 
 print(kajak)
